@@ -120,10 +120,11 @@ contributing to the town's connectivity and accessibility.
 </html>
 ```
 ## output:
-C:\Users\admin\Desktop\fwad\ex04\places-around-me\main.png
-C:\Users\admin\Desktop\fwad\ex04\places-around-me\hospital.png
-C:\Users\admin\Desktop\fwad\ex04\places-around-me\jewellery.png
-C:\Users\admin\Desktop\fwad\ex04\places-around-me\restaurant.png
-C:\Users\admin\Desktop\fwad\ex04\places-around-me\theatrre.png
+![main](https://github.com/harshiniyu/places-around-me/assets/144979786/a5ebcb6f-10f5-4558-8fbe-9d8371862ff0)
+![hospital](https://github.com/harshiniyu/places-around-me/assets/144979786/6047a096-2ab0-4cda-93e8-942aef8cfecd)
+![jewellery](https://github.com/harshiniyu/places-around-me/assets/144979786/b872d65a-eb66-4c93-bd66-0e7edfc75e77)
+![restaurant](https://github.com/harshiniyu/places-around-me/assets/144979786/ef0612db-a6f6-498c-817a-2e440cc6eba6)
+![theatrre](https://github.com/harshiniyu/places-around-me/assets/144979786/d98e8c98-164d-4b4c-91cd-c18dca735d51)
+
 ## Result:
 Thus the program executed successfully
